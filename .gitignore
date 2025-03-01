@@ -4,3 +4,6 @@
 
 *datasets*
 *__pycache__*
+
+*.zip*
+*.html*
